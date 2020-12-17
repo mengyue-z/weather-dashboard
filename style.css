@@ -1,0 +1,28 @@
+
+
+h1 {
+    text-align: center;
+    background-color: #1d3557;
+    color: #f1faee;
+    padding: 30px;
+    font-size: 50px;
+}
+
+#container {
+   margin-top: 0px;
+   margin-left: 30px;
+   margin-right: 30px;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #1d3557;
+}
+
+#left-col{
+    background-color: #edf6f9;
+}
+
+#dashboard {
+    border: 1px solid;
+}
