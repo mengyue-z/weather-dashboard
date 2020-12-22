@@ -10,22 +10,28 @@ SO THAT I can plan a trip accordingly
 
 # Description
 
-This is a simple calendar application that allows a user to save events for each working hour of the day.
+This is an application that users can get weather information for different cities all over the world.
 
-User can type in the tasks/events for each hour and then click the save button on the right so the tasks will be saved and are accessbile anytime.
+Once users search for a city, the current weather and 5-day forecast will be displayed. 
 
-The past timeblocks will be grey color, present timeblock will be red and future timeblocks will be green.
+Current weather information includes the temperature, the humidity, the wind speed, and the UV index.
+
+for the UV index, the favorable conditions will be in green, the moderate conditions will be in yellow, and the severe conditions will be in red.
+
+When users click on a city in the search history, they will be presented with current and future conditions for that city.
+
+When they open the weather dashboard again, the last searched city forecast will be presented.
 
 # Screenshots
 
 The following image shows this calendar application's appearance and functionality:
 
-![password generator homework demo](./screenshots/image1.jpg)
-![password generator homework demo](./screenshots/image2.jpg)
+![password generator homework demo](./screenshots/img1.jpg)
+![password generator homework demo](./screenshots/img2.jpg)
 
 # Links
 
-* The URLs of the deployed website: https://mengyue-z.github.io/Work-Day-Scheduler/
+* The URLs of the deployed website: https://mengyue-z.github.io/weather-dashboard/
 
-* The URLs of the GitHub repositories: https://github.com/mengyue-z/Work-Day-Scheduler 
+* The URLs of the GitHub repositories: https://github.com/mengyue-z/weather-dashboard
 
