@@ -24,7 +24,7 @@ When they open the weather dashboard again, the last searched city forecast will
 
 # Screenshots
 
-The following image shows this calendar application's appearance and functionality:
+The following image shows this weather dashboard application's appearance and functionality:
 
 ![password generator homework demo](./screenshots/img1.jpg)
 ![password generator homework demo](./screenshots/img2.jpg)
